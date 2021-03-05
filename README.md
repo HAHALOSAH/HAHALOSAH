@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is HAHALOSAH, and I love to code and play games! I usually just code a bunch of thigs for my friends like discord bots!
+My name is HAHALOSAH, and I love to code and play games! I usually just code a bunch of things, but i really dk?
 
 [[▷] YouTube: HAHALOSAH](https://www.youtube.com/channel/UCmeqYVnfh2xfUrtVO3a9aoA)
 [[?] Twitch: hahalosah](https://www.twitch.tv/hahalosah)
+
+
+  
