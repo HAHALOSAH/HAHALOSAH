@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is HAHALOSAH, and I love to code and play games! I usually just code a bunch of things, but i really dk?
+My name is HAHALOSAH, and I love to code and play games! I play Minecraft and make plugins (Spigot).
+
+I also make tweaks for jailbroken devices. I have an iPhone 11 running iOS 14.3, and I made the [NoFreeAppLimit](https://repo.hhls.tk/tweaks/NoFreeAppLimit/) tweak that removes the 3 app limit for free developer accounts (iOS).
+
+Need anything? Feel free to PM me on Discord. My tag is HAHALOSAH#2191 and my DMs are open.
 
 [[▷] YouTube: HAHALOSAH](https://www.youtube.com/channel/UCmeqYVnfh2xfUrtVO3a9aoA)
 [[?] Twitch: hahalosah](https://www.twitch.tv/hahalosah)
