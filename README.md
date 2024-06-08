@@ -14,22 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello, I’m HAHALOSAH! I’m a full-stack developer, and I have a lot of experience with programming. I’m good at:
+meow
 
-- Web Development
-- C & C++
-- Swift
-- Java
-- Node.JS
-- PHP
-- Python
-
-I also make tweaks for jailbroken devices. I have an iPhone 11 running iOS 14.8, and I made the [NoFreeAppLimit](https://repo.hhls.tk/tweaks/NoFreeAppLimit/) tweak that removes the 3 app limit for free developer accounts (iOS).
-
-Need anything? Feel free to PM me on Discord. My tag is HAHALOSAH#2191 and my DMs are open.
-
-[[▷] YouTube: HAHALOSAH](https://www.youtube.com/channel/UCmeqYVnfh2xfUrtVO3a9aoA)
-[[?] Twitch: hahalosah](https://www.twitch.tv/hahalosah)
 
 
   
